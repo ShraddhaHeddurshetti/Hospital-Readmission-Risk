@@ -1,6 +1,3 @@
-Here's your complete, updated README with the screenshots section included:
-
-```markdown
 # Hospital Readmission Risk Predictor
 
 Predicts whether a diabetic patient is likely to be readmitted to the hospital within 30 days of discharge, and explains *why* using SHAP — so predictions are interpretable, not just accurate.
