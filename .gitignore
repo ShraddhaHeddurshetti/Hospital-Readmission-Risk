@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+data/diabetic_data.csv
+data/diabetic_data_encoded.csv
