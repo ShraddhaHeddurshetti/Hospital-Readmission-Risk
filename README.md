@@ -34,10 +34,10 @@ The baseline model, despite balanced class weighting, failed to identify readmit
 ## App Screenshots
 
 **Low Risk Patient**
-![Low Risk](snapshot/low_risk_example.png)
+![Low Risk](snapshots/low_risk_example.png)
 
 **High Risk Patient**
-![High Risk](snapshot/high_risk_example.png)
+![High Risk](snapshots/high_risk_example.png)
 
 ## Project Structure
 
